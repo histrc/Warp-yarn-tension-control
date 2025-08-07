@@ -1,0 +1,14 @@
+.\output\debug\system_hc32f460.o: common\system_hc32f460.c
+.\output\debug\system_hc32f460.o: common\system_hc32f460.h
+.\output\debug\system_hc32f460.o: .\driver\inc\hc32_ll_def.h
+.\output\debug\system_hc32f460.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\debug\system_hc32f460.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\debug\system_hc32f460.o: common\hc32f4xx.h
+.\output\debug\system_hc32f460.o: common\hc32f460.h
+.\output\debug\system_hc32f460.o: .\common\core_cm4.h
+.\output\debug\system_hc32f460.o: .\common\cmsis_version.h
+.\output\debug\system_hc32f460.o: .\common\cmsis_compiler.h
+.\output\debug\system_hc32f460.o: .\common\cmsis_armcc.h
+.\output\debug\system_hc32f460.o: .\common\mpu_armv7.h
+.\output\debug\system_hc32f460.o: common\system_hc32f460.h
+.\output\debug\system_hc32f460.o: .\source\hc32f4xx_conf.h

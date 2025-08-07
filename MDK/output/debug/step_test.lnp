@@ -1,0 +1,26 @@
+--cpu=Cortex-M4 --fpu=SoftVFP
+".\output\debug\startup_hc32f460.o"
+".\output\debug\system_hc32f460.o"
+".\output\debug\main.o"
+".\output\debug\control_step.o"
+".\output\debug\tim.o"
+".\output\debug\hc32_ll.o"
+".\output\debug\hc32_ll_icg.o"
+".\output\debug\hc32_ll_utility.o"
+".\output\debug\hc32_ll_pwc.o"
+".\output\debug\hc32_ll_sram.o"
+".\output\debug\hc32_ll_efm.o"
+".\output\debug\hc32_ll_clk.o"
+".\output\debug\hc32_ll_gpio.o"
+".\output\debug\hc32_ll_fcg.o"
+".\output\debug\hc32_ll_aos.o"
+".\output\debug\hc32_ll_cmp.o"
+".\output\debug\hc32_ll_interrupts.o"
+".\output\debug\hc32f460_ll_interrupts_share.o"
+".\output\debug\hc32_ll_tmra.o"
+".\output\debug\hc32_ll_spi.o"
+".\output\debug\mp6602.o"
+--library_type=microlib --strict --scatter ".\output\debug\step_test.sct"
+--keep=*Handler --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\output\debug\step_test.map" -o .\output\debug\step_test.axf

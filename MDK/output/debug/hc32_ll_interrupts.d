@@ -1,0 +1,16 @@
+.\output\debug\hc32_ll_interrupts.o: driver\src\hc32_ll_interrupts.c
+.\output\debug\hc32_ll_interrupts.o: .\driver\inc\hc32_ll_interrupts.h
+.\output\debug\hc32_ll_interrupts.o: .\driver\inc\hc32_ll_def.h
+.\output\debug\hc32_ll_interrupts.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\debug\hc32_ll_interrupts.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\debug\hc32_ll_interrupts.o: .\common\hc32f4xx.h
+.\output\debug\hc32_ll_interrupts.o: .\common\hc32f460.h
+.\output\debug\hc32_ll_interrupts.o: .\common\core_cm4.h
+.\output\debug\hc32_ll_interrupts.o: .\common\cmsis_version.h
+.\output\debug\hc32_ll_interrupts.o: .\common\cmsis_compiler.h
+.\output\debug\hc32_ll_interrupts.o: .\common\cmsis_armcc.h
+.\output\debug\hc32_ll_interrupts.o: .\common\mpu_armv7.h
+.\output\debug\hc32_ll_interrupts.o: .\common\system_hc32f460.h
+.\output\debug\hc32_ll_interrupts.o: .\common\hc32f4xx.h
+.\output\debug\hc32_ll_interrupts.o: .\source\hc32f4xx_conf.h
+.\output\debug\hc32_ll_interrupts.o: .\driver\inc\hc32_ll_utility.h
